@@ -6,14 +6,15 @@ import subprocess
 import os
 import speech_recognition as sr
 import uuid
+import datetime
 from config import *
+from noise import *
 
-temp_file_name = str(uuid.uuid4())
+temp_file_name = str(datetime.datetime.now()).replace(".","-").replace(" ","-").replace(":","-")
 starting_text = "to be or not to be ariel. Are you animal? good bye"
 
-
 def textToWav(text, wav_full_path, text_to_speech_path):
-    p = subprocess.Popen(["cscript", text_to_speech_path, "-w", wav_full_path], stdin=subprocess.PIPE)
+    p = subprocess.Popen(["cscript", text_to_speech_path, "-w", wav_full_path, "-voice", "Microsoft Zira Desktop"], stdin=subprocess.PIPE)
     p.stdin.write(starting_text + '\n')
     p.stdin.close()
     p.wait()
@@ -49,4 +50,6 @@ def wavToText(wav_path, output_full_path):
 # main
 temp_full_wav_path = os.path.join(temp_speech_path, temp_file_name + ".wav")
 textToWav(starting_text, temp_full_wav_path, text_to_speech_path)
+#noise_wav(temp_full_wav_path)
+print("You said: " + starting_text)
 wavToText(temp_full_wav_path, os.path.join(temp_speech_path, temp_file_name + ".txt"))

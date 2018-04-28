@@ -1,1 +1,4 @@
 tmp/
+config.py
+config.pyc
+.idea/workspace.xml
