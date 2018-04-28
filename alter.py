@@ -2,19 +2,20 @@
 # 1. Turning given text to speech (wav file output)
 # 2. Turning speech back to text
 
-import subprocess
+import os
 import speech_recognition as sr
-from os import path
 import uuid
+from config import *
 
-espeak_path = "C:/Program Files (x86)/eSpeak/command_line/espeak.exe"
-temp_speech_path = "D:/Technical/Git/tech-pun-generator/tmp/"
 temp_file_name = str(uuid.uuid4())
+starting_text = "to be or not to be ariel. Are you animal? good bye"
 
-starting_text = "[[k'erberos]]"
 
-def textToWav(text, wav_full_path):
-    subprocess.call([espeak_path, "-w " + wav_full_path, "-g 5", "-ven+whisper", text])
+def textToWav(text, wav_full_path, text_to_speech_path):
+	print text, wav_full_path
+	run_command = 'echo ' + text + ' | cscript "' + text_to_speech_path + '" -w ' + wav_full_path
+	print run_command
+	os.system(run_command)
 
 def wavToText(wav_path, output_full_path):
     r = sr.Recognizer()
@@ -38,8 +39,7 @@ def wavToText(wav_path, output_full_path):
         except Exception as exc:
             print "Exception while writing file: \n{0}".format(exc.message)
 
-temp_full_wav_path = path.join(temp_speech_path, temp_file_name + ".wav")
-textToWav(starting_text, temp_full_wav_path)
-wavToText(temp_full_wav_path, path.join(temp_speech_path, temp_file_name + ".txt"))
-
-
+# main
+temp_full_wav_path = os.path.join(temp_speech_path, temp_file_name + ".wav")
+textToWav(starting_text, temp_full_wav_path, text_to_speech_path)
+wavToText(temp_full_wav_path, os.path.join(temp_speech_path, temp_file_name + ".txt"))

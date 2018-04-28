@@ -4,9 +4,9 @@ Generate technical puns based on input
 Python 2.7 only
 
 To install:
-  TTS - eSpeak
-  Download from here an exe: http://espeak.sourceforge.net/
-  Make sure path in the python file is right
+  TTS - ptts
+  Download from here an exe: http://jampal.sourceforge.net/ptts.html
+  Install it
   
   STT - https://pypi.org/project/SpeechRecognition/ with CMU Sphinx
   TL;DR - 
