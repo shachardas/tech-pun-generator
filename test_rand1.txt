@@ -1,0 +1,38 @@
+C:\Users\Ariel\Documents\tech-pun-generator>alter.py
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Football is a family of team sports that involve, to varying degrees, kicking a ball with a foot to score a goal.
+Sphinx thinks you said: with all of the family of team sports that involve to varying degrees taking the fall would like to score a goal
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Unqualified, the word football is understood to refer to whichever form of football is the most popular in the regional context in which the word appears
+Sphinx thinks you said: and qualified the word football is understood to refer to whichever former football is the most popular in the regional context in which the word is yours
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Sports commonly called football in certain places include association football
+Sphinx thinks you said: fourth commonly called football in certain places include association football
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Various forms of football can be identified in history, often as popular peasant games
+Sphinx thinks you said: various forms of football can be identified in history often as popular peasant gains
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: everal of the football codes are the most popular team sports in the world.
+Sphinx thinks you said: several of the football coach for the most popular team sports in the world
+
+C:\Users\Ariel\Documents\tech-pun-generator>

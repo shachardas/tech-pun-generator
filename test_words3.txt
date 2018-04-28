@@ -1,0 +1,207 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: The
+Sphinx thinks you said: good
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: domestic
+Sphinx thinks you said: domestic
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: cat
+Sphinx thinks you said: cat
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: is
+Sphinx thinks you said: yes
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: believed
+Sphinx thinks you said: only that
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: to
+Sphinx thinks you said: two
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: have
+Sphinx thinks you said: hand
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: evolved
+Sphinx thinks you said: they bombed
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: from
+Sphinx thinks you said: tom
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: the
+Sphinx thinks you said: good
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Near
+Sphinx thinks you said: the year
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Eastern
+Sphinx thinks you said: eastern
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: wildcat,
+Sphinx thinks you said: well cathy
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: whose
+Sphinx thinks you said: booth
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: range
+Sphinx thinks you said: minge
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: covers
+Sphinx thinks you said: heavens
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: vast
+Sphinx thinks you said: yes
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: portions
+Sphinx thinks you said: portions
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: of
+Sphinx thinks you said: um
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: the
+Sphinx thinks you said: good
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Middle
+Sphinx thinks you said: nato
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: East
+Sphinx thinks you said: booth
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: westward
+Sphinx thinks you said: westward
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: to
+Sphinx thinks you said: two
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: the
+Sphinx thinks you said: hey
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Atlantic
+Sphinx thinks you said: atlantic
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: coast
+Sphinx thinks you said: 'cause
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: of
+Sphinx thinks you said: um
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+ptts Version **UNSTABLE** (c) 2011 Peter G. Bennett
+You said: Africa
+Sphinx thinks you said: africa
+
+
+
+0.8, 1200-1800
